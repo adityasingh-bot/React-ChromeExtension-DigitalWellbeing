@@ -1,6 +1,6 @@
 <div align='center'>
     <img width="128" src="./public/logo128.png"/>
-    <h1>Time Keeper</h1>
+    <h1>Web Screen Time</h1>
 </div>
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
